@@ -12,5 +12,14 @@ This might be helpful for researchers to make observations and fine-tune prefere
 The dataset named ```main_bench``` contain exactly same data, however does not include precomputed preferences, assigned models for battles and no labels from human assessors. 
 This might be helpful for researchers, that would like to evaluate their model or set of models from scratch
 
+The generated images are availible in HuggingFace repo.
 
 ## Code
+
+Our code contains scripts for
+1) evaluating ELO Scores
+2) evaluating CLIP-Scores needed to calculate metrics from paper
+3) evaluation of reward model (however it needs installation from source https://github.com/THUDM/ImageReward)
+4) generation of images with models listed in paper
+
+
