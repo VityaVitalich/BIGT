@@ -21,5 +21,6 @@ Our code contains scripts for
 2) evaluating CLIP-Scores needed to calculate metrics from paper
 3) evaluation of reward model (however it needs installation from source https://github.com/THUDM/ImageReward)
 4) generation of images with models listed in paper
+5) evaluation of FID and IS, as described in paper
 
 
