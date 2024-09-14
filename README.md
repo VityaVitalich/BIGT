@@ -1,6 +1,6 @@
 # BIGT
 
-This repository contains data for Benchmark for Image Generation in Taxonomy and code to reproduce the results in our paper
+This repository contains data for "Do I look like a “cat.n.01” to you? Taxonomy Image Generation Benchmark" and code to reproduce the results in our paper.
 
 ## Data
 
